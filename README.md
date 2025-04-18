@@ -2,7 +2,7 @@
 
 def fx $$\ell:\mathbb R^2\rightarrow \mathbb R^1$$
 
-def value $$\ell f=\ell(f_0,f_1)$$https://github.com/YmStrip/TAL
+def value $$\ell f=\ell(f_0,f_1)$$
 
 def mark (boundedness req) $$\ell^\dagger f = \ell^{\dagger}(f_0,f)$$
 
